@@ -151,6 +151,9 @@ a:hover{
     font-size:0.9em;
     padding: 20px 0;
 }
+p{
+    font-size: 1rem;
+}
 /* .desc1{
     clear:left;
 }
@@ -158,4 +161,5 @@ a:hover{
 .desc2{
     clear:right;
 }
+
 */
